@@ -1,1 +1,1 @@
-[https://rumadirivo-bicycledata-analysis.streamlit.app/](https://rumadirivo-bicycledata-analysis.streamlit.app/)
+https://rumadirivo-bicycledata-analysis.streamlit.app/
