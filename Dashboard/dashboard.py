@@ -7,8 +7,8 @@ import plotly.graph_objects as go
 # Load data
 @st.cache_data
 def load_data():
-    df_day = pd.read_csv('day.csv')
-    df_hour = pd.read_csv('hour.csv')
+    df_day = pd.read_csv('https://github.com/Leon24k/BicycleData/blob/master/Dashboard/day.csv')
+    df_hour = pd.read_csv('https://github.com/Leon24k/BicycleData/blob/master/Dashboard/hour.csv')
 
     # Convert date columns to datetime
     df_day['dteday'] = pd.to_datetime(df_day['dteday'])
