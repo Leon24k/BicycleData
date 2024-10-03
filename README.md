@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+BicycleData Streamlit
 
 ## Setup Environment - Anaconda
 ```
