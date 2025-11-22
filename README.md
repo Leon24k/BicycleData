@@ -1,4 +1,4 @@
-# BicycleData
+# BicycleData Analysis Dashboard
 
 Live demo: https://rumadirivo-bicycledata-analysis.streamlit.app/  
 (See `url.txt` for the hosted app URL)
